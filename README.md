@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Sajjad
 
-<!--
-**sajjadipy/sajjadipy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Student**  
+📚 Department of Computing and Information Systems  
+🏫 Daffodil International University, Bangladesh  
+🌍 Passionate about technology, code, and turning ideas into real-world solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔭 Currently diving deep into **Machine Learning**, **Python**, and **Data Science**
+- 💡 I love exploring how algorithms work and how they can be used to solve problems
+- 💻 Most comfortable with Python, and always experimenting with new libraries
+- 🌱 Learning frameworks like **scikit-learn**, **pandas**, **TensorFlow**, and **NumPy**
+- 🛠️ Interested in building practical AI/ML projects and contributing to open-source
+
+---
+
+## 🚀 Skills & Tools
+
+- **Languages**: Python, C, JavaScript
+- **ML Tools**: pandas, NumPy, scikit-learn, TensorFlow (beginner)
+- **Dev Tools**: Git, GitHub, VS Code, Jupyter Notebook
+- **Other Interests**: Linux, Web Development, APIs, CLI tools
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio (if you have one): [your-portfolio-link.com](https://your-portfolio-link.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+> ⚡ _"Learning never exhausts the mind, it only fuels innovation."_  
