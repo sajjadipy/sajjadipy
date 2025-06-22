@@ -28,9 +28,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio (if you have one): [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: hossain242-16-040@diu.edu.bd
+- 💼 LinkedIn: [Sajjad Hossain](https://linkedin.com/in/sajjadipy)
 
 ---
 
